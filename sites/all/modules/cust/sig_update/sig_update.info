@@ -1,5 +1,0 @@
-name = SIG Custom Update Module
-description = Self Inquiry Group Custom Module to run updates
-core = 7.x
-package = SIG
-

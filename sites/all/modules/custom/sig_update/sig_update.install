@@ -8,7 +8,7 @@
 
 
 /**
- * Running first update of sig_update
+ * Enable the features module.
  */
 function sig_update_update_7101() {
   $modules = array('features');
