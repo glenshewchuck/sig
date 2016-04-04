@@ -1,0 +1,17 @@
+<?php
+
+/**
+* hook_install
+*
+* @return Bool
+*/
+
+
+/**
+ * Running first update of sig_update
+ */
+function sig_update_update_7101() {
+  $modules = array('features');
+  module_enable($modules);
+}
+
